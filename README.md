@@ -6,9 +6,10 @@ Built using **Pandas**, **Matplotlib**, and **Seaborn**, the project transforms 
 ---
 
 ## Dashboard / Notebook  
-- **Jupyter Notebook (view/download):**  https://drive.google.com/file/d/11142t2_KT1Pp2msQbMcfgesKMWIpHleS/view?usp=sharing 
+- **Jupyter Notebook (view/download):**  https://drive.google.com/file/d/11142t2_KT1Pp2msQbMcfgesKMWIpHleS/view?usp=sharing
 
-![Image](https://github.com/user-attachments/assets/your-la-crime-image-id)
+
+- ![Dashboard Preview](?raw=true)
 
 ---
 
