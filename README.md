@@ -9,7 +9,7 @@ Built using **Pandas**, **Matplotlib**, and **Seaborn**, the project transforms 
 - **Jupyter Notebook (view/download):**  https://drive.google.com/file/d/11142t2_KT1Pp2msQbMcfgesKMWIpHleS/view?usp=sharing
 
 
-- ![Dashboard Preview](?raw=true)
+- ![Dashboard Preview](https://github.com/ajanta-analyst/Python_Project_LA_Crime_Watch_Analysis/blob/main/LA%20Crime%20Screen.jpg?raw=true)
 
 ---
 
